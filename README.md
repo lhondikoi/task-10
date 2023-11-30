@@ -1,0 +1,1 @@
+Please open `script.js` to view the code.
